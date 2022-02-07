@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Antoreep Jana from India, and I do AI stuff across many domains like Computer Vision, Natural Language Processing, Machine Learning. I enjoy working in Computer Vision among the various domains. However, I do hold good conceptual as well as practical understanding of other domains in AI. You can check out my work on github as well as kaggle.
+
+I also share educational content on my YT Channel. Find it @ youtube.com/user/antoreepjana
+
+
+[![Antoreep's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoreep-jana)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **antoreep-jana/antoreep-jana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
